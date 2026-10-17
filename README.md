@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://chauhankartik.github.io">
-    <img src="./header.svg" alt="Kartik Chauhan — Software Engineer" width="100%" />
+    <img src="./profile-banner.svg" alt="Kartik Chauhan — Software Engineer" width="100%" />
   </a>
 
   <br/><br/>
