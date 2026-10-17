@@ -19,7 +19,9 @@
   <a href="mailto:contact@kartik.dev">
     <img src="https://img.shields.io/badge/Contact-contact%40kartik.dev-f59e0b?style=flat-square&logo=mail.ru&logoColor=white" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=chauhankartik&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/chauhankartik">
+    <img src="https://img.shields.io/badge/Focus-Distributed_Systems_%26_Backend-38bdf8?style=flat-square&logo=apachekafka&logoColor=white" alt="Focus" />
+  </a>
 
 </div>
 
