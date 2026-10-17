@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://chauhankartik.github.io">
-    <img src="./header.svg" alt="Kartik Chauhan — Staff Systems Architect" width="100%" />
+    <img src="./header.svg" alt="Kartik Chauhan — Software Engineer" width="100%" />
   </a>
 
   <br/><br/>
@@ -27,7 +27,7 @@
 
 ### ⚡ Executive Summary
 
-I am a **Staff Software Engineer & Distributed Systems Architect** driven by first-principles engineering and mechanical sympathy. My focus spans low-level Linux systems programming and high-concurrency JVM internals up to fault-tolerant consensus invariants, LSM-tree storage engines, and high-throughput real-time event streaming pipelines.
+I am a **Software Engineer** specializing in distributed systems, backend infrastructure, and database storage engines. Driven by first-principles engineering and mechanical sympathy, my focus spans low-level Linux systems programming and high-concurrency JVM internals up to fault-tolerant consensus invariants, LSM-tree storage engines, and event-driven architectures.
 
 ```bash
 $ cat << 'EOF' > ethos.txt
@@ -103,7 +103,7 @@ EOF
     <tr>
       <td>
         <b>🧠 <a href="https://chauhankartik.github.io">2026 Master Study & Prep Hub</a></b><br/>
-        <sub>Staff & Principal Systems Engineering Platform</sub><br/>
+        <sub>Systems Engineering & Architecture Platform</sub><br/>
         <code>Distributed Systems</code> <code>DDIA</code> <code>OSTEP</code>
       </td>
       <td>
@@ -118,7 +118,7 @@ EOF
     <tr>
       <td>
         <b>🏛️ <a href="https://chauhankartik.github.io/index.html#projects">Production LLD Engine Suite</a></b><br/>
-        <sub>Staff-Level Low-Level Design Engine</sub><br/>
+        <sub>Production Low-Level Design Engine</sub><br/>
         <code>Design Patterns</code> <code>SOLID</code> <code>Concurrency</code>
       </td>
       <td>
